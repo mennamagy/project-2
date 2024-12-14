@@ -1,0 +1,2 @@
+linw 1
+line o
